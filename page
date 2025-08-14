@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fit & Gift Zone</title>
+<style>
+    body {
+        font-family: Tahoma, sans-serif;
+        background-color: #f5f0e6; /* کرمی */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+    h1 {
+        color: #3b6d4d; /* سبز کله‌غازی */
+        margin-bottom: 30px;
+    }
+    .btn {
+        background-color: #3b6d4d; /* سبز کله‌غازی */
+        color: white;
+        padding: 15px 30px;
+        margin: 10px;
+        text-decoration: none;
+        border-radius: 10px;
+        font-size: 18px;
+        transition: background 0.3s;
+    }
+    .btn:hover {
+        background-color: #2d553b;
+    }
+</style>
+</head>
+<body>
+    <h1>ما را دنبال کنید</h1>
+    <a class="btn" href="https://www.instagram.com/fit.zone.tbz" target="_blank">Fit Zone</a>
+    <a class="btn" href="https://www.instagram.com/gift.zone.tbz" target="_blank">Gift Zone</a>
+</body>
+</html>
